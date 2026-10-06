@@ -1,0 +1,19 @@
+.todo-header {
+  display: flex;
+  gap: 1rem;
+  margin: 1rem;
+}
+
+input {
+  flex-grow: 1;
+}
+
+h1 {
+  color: #ffffff;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.button:hover {
+  background-color: #00ff0d;
+}
